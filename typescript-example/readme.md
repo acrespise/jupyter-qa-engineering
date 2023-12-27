@@ -14,7 +14,7 @@ This typescript-example folder in a nodejs application with dependencies defined
 
 * api-example.ipynb - use the axios library to test an REST API call.
 * import-ts-file.ipynb - example of loading external file into your notebook.
-* mocha-test-runner-example.ipynb - 
-* mocha-simple-html-reporter-test-runner.ipynb
-* playwright-example.ipynb
+* mocha-test-runner-example.ipynb - programmatically run tests using Mocha from a notebook.
+* mocha-simple-html-reporter-test-runner.ipynb - use mocha to create an html report linked to from the notebook.
+* playwright-example.ipynb - use playwright to automate testing a website.
      
