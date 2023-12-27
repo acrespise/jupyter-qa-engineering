@@ -1,0 +1,20 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mocha": "^10.0.6",
+    "axios": "^1.6.2",
+    "expect": "^29.7.0",
+    "mocha": "^10.2.0",
+    "mocha-simple-html-reporter": "^2.0.0",
+    "playwright": "^1.40.1"
+  }
+}
