@@ -32,7 +32,7 @@ It is not necessary to only run notebooks manually from within the jupyter lab u
     [NbConvertApp] Writing 276135 bytes to mocha-simple-html-reporter-test-runner.html
 
 
-### execute notebook and convert to another noteobook file
+### execute notebook and convert to another notebook file
     C:\Projects\jupyter\notebooks\typescript-example>jupyter nbconvert --to notebook --execute mocha-simple-html-reporter-test-runner.ipynb
     [NbConvertApp] Converting notebook mocha-simple-html-reporter-test-runner.ipynb to notebook
     [NbConvertApp] Writing 3553 bytes to mocha-simple-html-reporter-test-runner.nbconvert.ipynb
