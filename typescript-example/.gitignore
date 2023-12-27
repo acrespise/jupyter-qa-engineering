@@ -134,5 +134,6 @@ dist
 ../.ipynb_checkpoints/
 
 #output files 
-mocha-simple-html-report.html
+*.html
 screenshots
+*.nbconvert.*
